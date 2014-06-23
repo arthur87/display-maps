@@ -1,0 +1,23 @@
+* {
+	margin:0px; padding: 0px;
+}
+#Menu {
+	float: left;
+	width: 250px;
+}
+#Map {
+	float: left;
+
+}
+.clear {
+	clear: both;
+	width: 100%;
+}
+
+.MenuItem {
+	margin:20px 10px;
+}
+
+.MenuItem p {
+	font-weight: bold;
+}
